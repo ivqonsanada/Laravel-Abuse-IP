@@ -36,7 +36,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ivqonsanada\\LaravelAbuseIp\\": "src/"
+            "RahulAlam31\\LaravelAbuseIp\\": "src/"
         },
         "files": [
             "src/helpers.php"
@@ -45,7 +45,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "ivqonsanada\\LaravelAbuseIp\\AbuseIPServiceProvider"
+                "RahulAlam31\\LaravelAbuseIp\\AbuseIPServiceProvider"
             ]
         }
     },
